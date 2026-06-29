@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" width="100%">
+  <img src="./banner.png" alt="Haozhe Zhang GitHub profile banner" width="100%">
 </p>
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Haozhe+Zhang!;"
+    alt="Hi, I'm Haozhe Zhang"
+  />
+</h1>
+ 👨‍💻 A Computer Science student interested in software development, artificial intelligence, and building useful applications.
 <div align="center">
   <p>Profile views</p>
   <img
