@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <p>Visitor count</p>
+  <img
+    src="https://profile-counter.glitch.me/haozhezhangcs-droid/count.svg"
+    alt="Visitor's Count"
+  />
+</div>
 
 <!--
 **haozhezhangcs-droid/haozhezhangcs-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
