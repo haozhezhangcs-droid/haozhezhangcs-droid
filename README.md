@@ -1,8 +1,8 @@
 <div align="center">
-  <p>Visitor count</p>
+  <p>Profile views</p>
   <img
-    src="https://profile-counter.glitch.me/haozhezhangcs-droid/count.svg"
-    alt="Visitor's Count"
+    src="https://komarev.com/ghpvc/?username=haozhezhangcs-droid&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
   />
 </div>
 
