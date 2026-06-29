@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Haozhe Zhang GitHub profile banner" width="100%">
+  <img src="./banner.png" alt="Profile banner" width="100%" height="320">
 </p>
 
 <h1 align="center">
@@ -8,7 +8,11 @@
     alt="Hi, I'm Haozhe Zhang"
   />
 </h1>
- 👨‍💻 A Computer Science student interested in software development, artificial intelligence, and building useful applications.
+ <h3 align="center">
+  👨‍💻 A Computer Science student interested in software development,
+  artificial intelligence, and building useful applications.
+</h3>
+
 <div align="center">
   <p>Profile views</p>
   <img
