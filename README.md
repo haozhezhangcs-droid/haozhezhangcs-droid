@@ -176,5 +176,37 @@ Here are some ideas to get you started:
   />
 </div>
 
+<hr>
 
+<hr>
+
+## ⚡ GitHub Stats
+
+<br>
+
+<div align="center">
+  <img
+    width="390"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haozhezhangcs-droid&theme=transparent"
+    alt="Haozhe Zhang's GitHub statistics"
+  />
+
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com/?user=haozhezhangcs-droid&theme=transparent&hide_border=true"
+    alt="Haozhe Zhang's GitHub streak"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="390"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haozhezhangcs-droid&theme=transparent"
+    alt="Haozhe Zhang's most used languages"
+  />
+</div>
+
+<hr>
 
