@@ -194,13 +194,3 @@ Here are some ideas to get you started:
 
 
 
-<hr>
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=haozhezhangcs-droid&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
