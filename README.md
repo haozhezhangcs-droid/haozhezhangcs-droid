@@ -16,7 +16,7 @@
   I build intelligent systems by combining machine learning,
   computer vision, embedded software and real-time control.
 </p>
-
+ 
 <p align="center">
   🎯 Seeking 2026 graduate opportunities in Embedded Software,
   Embedded AI, Machine Learning and Intelligent Systems.
