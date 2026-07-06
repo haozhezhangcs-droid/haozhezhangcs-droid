@@ -3,24 +3,29 @@
 </p>
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Haozhe+Zhang!;"
-    alt="Hi, I'm Haozhe Zhang"
-  />
+Hi, I'm Haozhe Zhang 👋
 </h1>
- <h3 align="center">
-  MSc Computer Science Student | Embedded AI & Machine Learning Engineer
+
+<h3 align="center">
+MSc Computing Science @ University of Glasgow
 </h3>
 
 <p align="center">
-  I build intelligent systems by combining machine learning,
-  computer vision, embedded software and real-time control.
+Machine Learning • Computer Vision • Embedded AI • Embedded Software • Intelligent Systems
 </p>
- 
+
 <p align="center">
-  🎯 Seeking 2026 graduate opportunities in Embedded Software,
-  Embedded AI, Machine Learning and Intelligent Systems.
+I'm currently pursuing an MSc in Computing Science at the University of Glasgow.
+
+My interests focus on Machine Learning, Computer Vision and Embedded AI. I enjoy building intelligent systems that integrate AI algorithms with embedded software and real-time control for practical engineering applications.
 </p>
+
+<p align="center">
+🎯 Seeking 2026 Graduate opportunities in Machine Learning, Embedded Software, Computer Vision and AI Engineering.
+</p>
+
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -30,9 +35,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Python, C and C++" />
 </p>
 
-- **Python**
-- **C / C++**
-- **SQL**
+Python | C | C++ | SQL
 
 ### Artificial Intelligence & Data
 
@@ -83,6 +86,22 @@ Here are some ideas to get you started:
 -->
 ---
 
+## 📌 Areas of Interest
+
+- Machine Learning
+- Data Analysis
+- Embedded AI
+- Intelligent Systems
+- Edge AI
+
+## 🌱 Currently Working On
+
+- Building Machine Learning pipelines for Human Activity Recognition
+- Developing Embedded AI applications using STM32 and OpenMV
+- Exploring Computer Vision for intelligent tracking systems
+- Preparing for 2026 Graduate Software Engineering opportunities
+
+
 ## 🚀 Featured Projects
 
 ### 🎯 [Laser Spot Tracking System](https://github.com/haozhezhangcs-droid/laser-spot-tracking-system)
@@ -114,7 +133,7 @@ Here are some ideas to get you started:
 
 ## 💼 Experience
 
-### Machine Learning Intern — Google
+### Machine Learning Intern (Google)
 **Oct 2025 – Mar 2026**
 
 - Developed end-to-end machine learning pipelines for wearable sensor-based Human Activity Recognition.
@@ -159,6 +178,11 @@ Here are some ideas to get you started:
 ## 📫 Connect with Me
 
 <p align="center">
+
+  <a href="https://github.com/haozhezhangcs-droid">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
   <a href="mailto:haozhezhang.cs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -168,45 +192,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div align="center">
-  <p>Profile views</p>
-  <img
-    src="https://komarev.com/ghpvc/?username=haozhezhangcs-droid&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
-</div>
 
-<hr>
 
 <hr>
 
 ## ⚡ GitHub Stats
 
-<br>
-
-<div align="center">
+<p align="center">
   <img
-    width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haozhezhangcs-droid&theme=transparent"
-    alt="Haozhe Zhang's GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=haozhezhangcs-droid&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub Stats"
   />
-
-  <img
-    width="390"
-    src="https://streak-stats.demolab.com/?user=haozhezhangcs-droid&theme=transparent&hide_border=true"
-    alt="Haozhe Zhang's GitHub streak"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    width="390"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haozhezhangcs-droid&theme=transparent"
-    alt="Haozhe Zhang's most used languages"
-  />
-</div>
-
-<hr>
-
+</p>
