@@ -129,6 +129,15 @@ Here are some ideas to get you started:
 - Evaluated Decision Trees, SVM, Random Forest, XGBoost and Neural Networks.
 - Compared model performance and improved robustness through feature engineering.
 
+### 🌍 [WeChat Environmental Monitoring System](https://github.com/haozhezhangcs-droid/wechat-environmental-monitoring-system)
+
+**JavaScript | WeChat Mini Program | WXML | WXSS | IoT**
+
+- Developed a WeChat Mini Program for monitoring environmental parameters, including temperature, humidity and gas concentration.
+- Designed interactive user interfaces using WXML and WXSS.
+- Implemented configurable alarm thresholds and dynamic status updates using JavaScript.
+- Performed functional testing and interface optimization with WeChat Developer Tools.
+  
 - ---
 
 ## 💼 Experience
